@@ -63,7 +63,7 @@ const Page = () => {
             <h3 className="mb-0">SMA NEGRI 1 BITUNG</h3>
             <div className="subheading mb-3">IPA(Ilmu Pengetahuan Alam)</div>
           </div>
-          <div className="flex-shrink-0"><span className="text-primary">Agustus 2019 - May 2021</span></div>
+          <div className="flex-shrink-0"><span className="text-primary">August 2019 - May 2021</span></div>
         </div>
         <div className="d-flex flex-column flex-md-row justify-content-between">
           <div className="flex-grow-1">
